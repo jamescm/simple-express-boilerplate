@@ -1,0 +1,21 @@
+{
+  "name": "simple-express-boilerplate",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A simple Express boilerplate attempting to follow Node best practices https://github.com/i0natan/nodebestpractices",
+  "main": "src/start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "jamescm <james.cory.m@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.18.0",
+    "morgan": "^1.9.1",
+    "winston": "^3.2.1"
+  }
+}
