@@ -9,7 +9,7 @@ This is a simple boilerplate to get my projects Express started inspired by http
 ## Getting Started
 
 ```
-git clone https://github.com/jamescm/simple-express-boilerplate
+git clone https://github.com/jamescm/simple-express-boilerplate.git
 ```
 
 Change the project name in `package.json` and then get coding.
