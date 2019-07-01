@@ -1,7 +1,7 @@
 import express from 'express'
 import appRoot from '../../libraries/app-root.js'
 import middleware from './middleware/all.js'
-import user from '../../components/user/user.route.js'
+import user from '../../components/user/user.routes.js'
 
 const app = express()
 
